@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hospital\\LoginWebRestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\models\\hospitalmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\models\\hospitalmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\controllers\\patientregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\controllers\\patientregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|d:\\hospital\\loginwebrestapi\\loginwebrestapi\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A165D-BF16-4BC2-829D-0AB1C300903D}|LoginWebRestApi\\LoginWebRestApi.csproj|solutionrelative:loginwebrestapi\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginWebRestApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:43:14.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Efmigrationshistory.cs",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Models\\Efmigrationshistory.cs",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\Models\\Efmigrationshistory.cs",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Models\\Efmigrationshistory.cs",
+              "RelativeToolTip": "LoginWebRestApi\\Models\\Efmigrationshistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:42:52.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\appsettings.json",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\appsettings.json",
+              "RelativeToolTip": "LoginWebRestApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T16:11:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientRegistrationDto.cs",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Controllers\\PatientRegistrationDto.cs",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\Controllers\\PatientRegistrationDto.cs",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Controllers\\PatientRegistrationDto.cs",
+              "RelativeToolTip": "LoginWebRestApi\\Controllers\\PatientRegistrationDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:08:58.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalmanagementContext.cs",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Models\\HospitalmanagementContext.cs",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\Models\\HospitalmanagementContext.cs",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Models\\HospitalmanagementContext.cs",
+              "RelativeToolTip": "LoginWebRestApi\\Models\\HospitalmanagementContext.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:28:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Program.cs",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\Program.cs",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Program.cs",
+              "RelativeToolTip": "LoginWebRestApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:52:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "LoginWebRestApi\\Models\\Area.cs",
+              "ToolTip": "D:\\hospital\\LoginWebRestApi\\LoginWebRestApi\\Models\\Area.cs",
+              "RelativeToolTip": "LoginWebRestApi\\Models\\Area.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:27:40.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
