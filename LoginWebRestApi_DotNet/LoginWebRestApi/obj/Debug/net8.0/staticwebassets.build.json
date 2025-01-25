@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b7VfduYZcw5eZ67wbb4WxXitq35SWdNedTzhgaXaEBw=",
+  "Source": "LoginWebRestApi",
+  "BasePath": "_content/LoginWebRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
